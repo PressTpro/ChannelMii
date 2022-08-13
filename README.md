@@ -18,3 +18,10 @@ ChannelMii is a Open Source Channel Repository for The Wii where you can get cus
 8. Install The Wads, Then Return to Homebrew Channel
 9. Return to System Menu
 10. Done!
+## Branchs
+This Repository Haves 3 Branchs
+- main | Here are Stored Common Channels (Example: Wii Shop Channel, Forecast Channel)
+- virtualconsole | VirtualConsole Games (Example: Super Mario Bros)
+- system | System Channels (Example: System Menu, IOS, Startup Menu)
+- wiiware | WiiWare Games (Example: My Pokemon Ranch)
+#### If you're searching for Games, Use the CleanRip Application to Backup your Games on a SD Card
